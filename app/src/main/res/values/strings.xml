@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Work Center</string>
+
+    <string name="personal_task_tab_title">Tasks</string>
+    <string name="company_notification_tab_title">Notification</string>
+
+    <string name="notification_detail_title">Notification Detail</string>
+
+    <string name="priority_readable_text_low">[Low Priority]</string>
+    <string name="priority_readable_text_mid">[Mid Priority]</string>
+    <string name="priority_readable_text_high">[High Priority]</string>
+    <string name="priority_readable_text_urgent">[!!Urgent!!]</string>
+
+    <string name="drawer_item_file">Internal Files</string>
+    <string name="drawer_item_browser">Web Browser</string>
+    <string name="drawer_item_settting">Settings</string>
+
+    <string name="logged_in_user_name">Runzhi Zhang</string>
+    <string name="user_email">zhangrzh8@gmail.com</string>
+
+    <string name="open_file_hint_message">Select File</string>
+</resources>
